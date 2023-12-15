@@ -1,0 +1,85 @@
+body {
+    background-color: #aa4d4d;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0 4%;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+input {
+    width: 25%;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+.date {
+    width: 20%;
+    font-size: 20px;
+}
+
+label {
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: px;
+}
+
+button {
+    width: 20%;
+    border: none;
+    border-radius: 10px;
+    font-size: 19px;
+    padding: 5px 10px;
+    font-weight: bold;
+    background-color: #e28317;
+}
+
+button:hover{
+    opacity: 0.5;
+}
+
+h4 {
+    font-size: 25px;
+    margin-bottom: 0;
+}
+
+a {
+    width: 20%;
+    margin: 0 auto;
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    background-color: #ea6d1f;
+}
+
+legend {
+    font-size: 30px;
+    color: white;
+}
+
+
+
+.search-form {
+    margin-top: 20px;
+    display: flex;
+}
+
+.main-form {
+    flex: 1;
+}
+
+.sub-form {
+    flex: 1;
+}
+
+.result-list-sub > p {
+    font-size: 20px;
+}
